@@ -1,0 +1,6 @@
+{
+  "types": ["Avería", "Verificación", "Devolución"],
+  "priorities": ["High", "Medium", "Low"],
+  "specialties": ["Especialidad 1", "Especialidad 2", "Especialidad 3"],
+  "states": ["Backlog", "Todo", "In Progress", "Done", "Canceled"]
+}
